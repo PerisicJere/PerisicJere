@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PerisicJere
-- 👀 I’m interested in Data science.
 - 🌱 I’m currently Computer Science Senior @USM
-- 💞️ I want to collaborate on anything that will give me experience.
 - 📫 How to reach me jereperisic@icloud.com
 
 <!---
