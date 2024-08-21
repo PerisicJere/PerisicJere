@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align=center gap=>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PerisicJere&theme=tokyonight&card_height=200&background=00000000&border=36BCF7&stroke=36BCF7&ring=36BCF7&fire=EB3400&currStreakNum=36BCF7&sideNums=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=36BCF7" alt="GitHub Streak" /></a> 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PerisicJere&theme=tokyonight&card_width=450&card_height=200&background=00000000&border=36BCF7&stroke=36BCF7&ring=36BCF7&fire=EB3400&currStreakNum=36BCF7&sideNums=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=36BCF7" alt="GitHub Streak" /></a>
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=false&Background=00000000&Text=36BCF7&Title=36BCF7&Ring=36BCF7&Border=36BCF7">    <img  alt="PerisicJere's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/PerisicJere?cardType=level&theme=tokyonight&preferLogin=false&Background=00000000&Text=36BCF7&Title=36BCF7&Ring=36BCF7&Border=36BCF7" />  </a>
     
 </div>
