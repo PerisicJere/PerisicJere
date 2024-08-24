@@ -7,5 +7,5 @@
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=false&Background=00000000&Text=36BCF7&Title=36BCF7&Ring=36BCF7&Border=36BCF7">    <img  alt="PerisicJere's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/PerisicJere?cardType=level&theme=tokyonight&preferLogin=false&Title=00000000&Background=00000000&Text=36BCF7&Title=36BCF7&Ring=36BCF7&Border=36BCF7" style="display:inline-block; width: 45%; height: auto;;"/>  </a>
 </div>
 
-[![Jere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PerisicJere&bg_color=22272e&color=36bcf7&line=36bcf7&point=36bcf7&area=true&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PerisicJere&bg_color=00000000e&color=36bcf7&line=36bcf7&point=36bcf7&area=true&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
